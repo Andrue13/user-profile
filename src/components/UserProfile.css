@@ -1,0 +1,8 @@
+.userProfile {
+    display: flex;
+}
+
+.userPrifileData {
+    display: flex;
+    flex-direction: column;
+}
